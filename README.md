@@ -18,7 +18,7 @@
 また毎日の体重を記録することで変位を視覚的に確認できるようにする。
 ​
 ## 設計書
-![キリン](https://github.com/KT2891/Fithub/assets/132236070/2e437c00-1a0a-461a-b726-9e77fb9fef51)
+![キリン](https://github.com/KT2891/Fithub/assets/132236070/2a0bbee6-52f1-4f0c-bda9-1f4ec700b54e)
 ​
 ## 開発環境
 - OS：Linux(CentOS)

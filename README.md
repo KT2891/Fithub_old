@@ -18,6 +18,7 @@
 また毎日の体重を記録することで変位を視覚的に確認できるようにする。
 ​
 ## 設計書
+![テスト](https://github.com/KT2891/Fithub/assets/132236070/5341fc39-b0a7-43af-8f9a-6e3befbadf49)
 ​
 ## 開発環境
 - OS：Linux(CentOS)
